@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-authflow-theming",
+  "version": "0.0.1",
+  "description": "React Native Template with authflow using redux and theming",
+  "repository": "https://github.com/ambadyajay/react-native-redux-authflow-template.git",
+  "author": "Ambady Ajay",
+  "license": "MIT"
+}
